@@ -1,5 +1,5 @@
-module.exports = {
-    products: [
+export default {
+    products: [ 
         {
             _id: 1,
             name: 'Fool Zip Shirts',
