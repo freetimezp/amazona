@@ -5,4 +5,5 @@ AMAZONA by JS
 3. Render home page
 4. Routes. Product page. Error page.
 5. Create node js server.
-
+6. Install webpack.
+...
