@@ -92,6 +92,11 @@ footer {
     cursor: pointer;
     padding: 0 6px;
     border-radius: 4px;
+    transition: all 0.5s ease;
+}
+
+.product:hover {
+    box-shadow: 1px 2px 15px #203040;
 }
 
 .product img {
@@ -116,6 +121,18 @@ footer {
 
 .product-price {
     font-size: 2rem;
+}
+
+/* rating */
+
+.rating {
+    color: #ffc000;
+    font-size: 1.8rem;
+}
+
+.rating span:last-child {
+    color: #444444;
+    font-size: 1.4rem;
 }
 
 
